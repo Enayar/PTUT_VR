@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet PTUT complet", "Projet PTUT complet.csproj", "{BCC4DE04-77CA-461F-E0FF-75ABB1B35ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet PTUT complet.Editor", "Projet PTUT complet.Editor.csproj", "{B04AF009-6854-21E5-BB66-D6BCB081BFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC4DE04-77CA-461F-E0FF-75ABB1B35ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC4DE04-77CA-461F-E0FF-75ABB1B35ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC4DE04-77CA-461F-E0FF-75ABB1B35ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC4DE04-77CA-461F-E0FF-75ABB1B35ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04AF009-6854-21E5-BB66-D6BCB081BFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04AF009-6854-21E5-BB66-D6BCB081BFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04AF009-6854-21E5-BB66-D6BCB081BFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04AF009-6854-21E5-BB66-D6BCB081BFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
